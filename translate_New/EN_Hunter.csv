@@ -1,0 +1,11 @@
+ID,EN,TH
+COMPLETE_REPEAT,"You have proven yourself a true hunter, a master of killing, and so with great pleasure I will give you the reward you deserve...",
+HUNTER_MEET,"Tiny squib... You approach fearless. Are you a hunter like me?<page>Do you feel the urge inside, to stalk, to kill, to understand?<page>Then take it! My journal. It will aid you. At first the text may seem difficult to discern, but a learned hunter will come to understand its words.<page>Venture the depths of this land and slay its beasts. Prove yourself worthy to bear the mark of Hunter.",
+HUNTER_ENTRIES_COMPLETED,"So, you've encountered all of the beasts in this land. Impressive! But one task remains, little squib.<page>Keep hunting down creatures until you have deciphered all of my notes! Only then will I recognise you as my fellow Hunter and you shall receive your reward.",
+HUNTER_CONVO_1,"Little squib! You may have overcome a few creatures, but you are only just beginning.<page>Don't delay, descend into the belly of this world and hunt down the life you find!",
+HUNTER_CONVO_3,"Ah ha! Your journal grows fat and full. Only those last few, rare beasts remain left to stalk.<page>Search the kingdom's corners. Complete the journal. Earn your well deserved reward...",
+GOT_MARK,"You have my mark, and you shall be recognised as one of my rare caste. Fellow Hunter, I have nothing else to give you.",
+HUNTER_CONVO_2,"Ahhh... I knew I'd seen it right. That hunter's quality. Hallownest's creatures fall in your path.<page>Don't stop now little squib, many more there are to find, and stalk, and kill. ",
+HUNTER_COMPLETE,"Your journal... let me see it!<page>Yes... Yes! The Hunter's journal is complete!<page>You have proven yourself a true hunter, a master of killing, and so with great pleasure I will give you the reward you deserve...",
+GOT_REVISIT,"Fellow Hunter. You return? You've already proven yourself to me. I'm only biding time a moment, before next my hunt begins.<page>A true Hunter has no home, no kingdom and I'm eager for new prey.<page>You bear the mark now, but that's only the beginning. That mark will become a part of you, will engrave itself deep within, and that yearning to hunt... It will never leave.",
+HUNTER_DREAM,It is stronger even than me... does it know that? Will it return to hunt me...? I hope it tries.,
